@@ -3,7 +3,7 @@ For Windows :
 ## [1. Installing Miniconda3](https://docs.conda.io/en/latest/miniconda.html)
 
 
-<img src="./images/windows/cmd_install.png">
+<img src="./images/windows/cmd_install.png" style="width:50%">
 <br>
 
 ```
@@ -12,7 +12,7 @@ start Miniconda3-py39_4.11.0-Windows-x86_64.exe -Wait -ArgumentList @('/S', '/In
 <br>
 
 ## 2. Managing Environment
-<img src="images/windows/conda-env.png" />
+<img src="images/windows/conda-env.png" style="width:50%" />
 
 To create an environment
 ```
@@ -60,7 +60,7 @@ bash Miniconda3-latest-Linux-x86_64.sh
 ```
 conda --version
 ```
-<img src="./images/ubuntu/update-package.png"/> \
+<img src="./images/ubuntu/update-package.png" style="width:50%"/> \
 To update packages
 ```
 conda update package
@@ -159,6 +159,7 @@ conda install package
 <img src="./images/ubuntu/jupyter-notebook.png" style="width:50%"/>
 </div><br>
 To run jupter notebook
+
 ```
 jupyter notebook
 ```
