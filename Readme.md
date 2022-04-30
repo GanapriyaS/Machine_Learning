@@ -137,11 +137,11 @@ conda env create --prefix ./env -f ../env.yml
 ## 4. Managing packages
 
 
-<img src="./images/ubuntu/install-jupyter.png" style="width:33%; "/>
+<img src="./images/ubuntu/install-jupyter.png" />
 
-<img src="./images/ubuntu/conda-search.png" style="width:33%; "/>
+<img src="./images/ubuntu/conda-search.png" />
 
-<img src="./images/ubuntu/search-info.png" style="width:33%"/>
+<img src="./images/ubuntu/search-info.png" />
 <br>
 
 To search is any package installed or not
