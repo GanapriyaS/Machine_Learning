@@ -2,14 +2,8 @@ For Windows :
 
 ## [1. Installing Miniconda3](https://docs.conda.io/en/latest/miniconda.html)
 
-<div style="display:flex">
-<img src="./images/windows/install_miniconda.png" style="width:33%; margin-right:7px;"/>
 
-<img src="./images/windows/bash_install.png" style="width:33%; margin-right:7px;"/>
-
-
-<img src="./images/windows/cmd_install.png" style="width:33%"/>
-</div>
+<img src="./images/windows/cmd_install.png">
 <br>
 
 ```
@@ -33,7 +27,7 @@ If any error in activating env , use conda init bashname
 conda init bashname
 ```
 <div style="display:flex">
-<img src="./images/windows/conda_init.png" style="width:50%; margin-right:7px"/>
+<img src="./images/windows/conda_init.png" style="width:50%; "/>
 
 <img src="./images/windows/conda_activate.png" style="width:50%"/>
 </div><br>
@@ -52,7 +46,7 @@ For linux :
 
 
 <div style="display:flex">
-<img src="./images/ubuntu/bash-install.png" style="width:50%; margin-right:7px"/>
+<img src="./images/ubuntu/bash-install.png" style="width:50%; "/>
 
 <img src="./images/ubuntu/cmd-install.png" style="width:50%"/>
 </div><br>
@@ -81,7 +75,7 @@ conda update conda
 
 ## 3. Managing environment
 <div style="display:flex">
-<img src="./images/ubuntu/conda-env.png" style="width:50%; margin-right:7px"/>
+<img src="./images/ubuntu/conda-env.png" style="width:50%; "/>
 
 <img src="./images/ubuntu/conda-env1.png" style="width:50%"/>
 </div><br>
@@ -95,7 +89,7 @@ To verify environment added
 conda info --envs
 ```
 <div style="display:flex">
-<img src="./images/ubuntu/conda-activate.png" style="width:50%; margin-right:7px"/>
+<img src="./images/ubuntu/conda-activate.png" style="width:50%; "/>
 
 <img src="./images/ubuntu/conda-env1.png" style="width:50%"/>
 </div><br>
@@ -105,9 +99,9 @@ To active environment
 conda activate
 ```
 <div style="display:flex">
-<img src="./images/ubuntu/install-jupyter.png" style="width:50%; margin-right:7px;"/>
+<img src="./images/ubuntu/install-jupyter.png" style="width:50%; "/>
 
-<img src="./images/ubuntu/create-envfile.png" style="width:50%; margin-right:7px;"/>
+<img src="./images/ubuntu/create-envfile.png" style="width:50%; "/>
 
 </div><br>
 
@@ -143,9 +137,9 @@ conda env create --prefix ./env -f ../env.yml
 ## 4. Managing packages
 
 <div style="display:flex">
-<img src="./images/ubuntu/install-jupyter.png" style="width:33%; margin-right:7px;"/>
+<img src="./images/ubuntu/install-jupyter.png" style="width:33%; "/>
 
-<img src="./images/ubuntu/conda-search.png" style="width:33%; margin-right:7px;"/>
+<img src="./images/ubuntu/conda-search.png" style="width:33%; "/>
 
 <img src="./images/ubuntu/search-info.png" style="width:33%"/>
 </div><br>
@@ -160,7 +154,7 @@ To install package
 conda install package
 ```
 <div style="display:flex">
-<img src="./images/ubuntu/run-jupyter.png" style="width:50%; margin-right:7px"/>
+<img src="./images/ubuntu/run-jupyter.png" style="width:50%; "/>
 
 <img src="./images/ubuntu/jupyter-notebook.png" style="width:50%"/>
 </div><br>
@@ -170,7 +164,7 @@ jupyter notebook
 ```
 
 <div style="display:flex">
-<img src="./images/ubuntu/conda-list.png" style="width:50%; margin-right:7px"/>
+<img src="./images/ubuntu/conda-list.png" style="width:50%; "/>
 
 <img src="./images/ubuntu/conda-deactivate.png" style="width:50%"/>
 </div><br>
@@ -191,7 +185,7 @@ conda uninstall package
 
 ## Others
 <div style="display:flex">
-<img src="./images/ubuntu/other.png" style="width:50%; margin-right:7px"/>
+<img src="./images/ubuntu/other.png" style="width:50%; "/>
 
 <img src="./images/ubuntu/other1.png" style="width:50%"/>
 </div><br>
