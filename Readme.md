@@ -36,6 +36,12 @@ To deactivate
 ```
 conda deactivate
 ```
+
+To run jupyter notebook using conda at particular drive
+```
+conda run jupyter notebook --notebook-dir=F:\
+```
+
 ---
 
 <br>
