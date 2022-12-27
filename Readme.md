@@ -17,7 +17,10 @@ start Miniconda3-py39_4.11.0-Windows-x86_64.exe -Wait -ArgumentList @('/S', '/In
 To create an environment
 ```
 conda create --prefix ./env pandas numpy other_libraries
+conda create --name env_name
 ```
+<img src="images/windows/env_create.png"  />
+
 To activate this envrionment
 ```
 conda activate ./env
@@ -36,6 +39,12 @@ To deactivate
 ```
 conda deactivate
 ```
+
+To pip install libraries
+```
+pip install library
+```
+<img src="./images/windows/pip_install.png" />
 
 To run jupyter notebook using conda at particular drive
 ```
